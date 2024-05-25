@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(209 223 212);
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #193532;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-size: 15px;
+    color: #193532;
+}
+
+.video_container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image_container {
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    font-size: 36px;
+    width: 50%;
+    text-align: center;
+    font-weight: 600;
+    color: #193532;
+}
